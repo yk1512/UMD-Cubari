@@ -319,6 +319,55 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3xjkyd"
       }
+    },
+    "062": {
+      "title": "Day 9 - Rin's Questions and Answers (3)",
+      "last_updated": "1787485249",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6wpxyx"
+      }
+    },
+    "092": {
+      "title": "Day 10 - Plan for the Future (7)",
+      "last_updated": "1787485253",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxbn27b"
+      }
+    },
+    "078": {
+      "title": "Day 9 - Over (14)",
+      "last_updated": "1787485255",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb39kmyd"
+      }
+    },
+    "098": {
+      "title": "Day 10 - Artificial Phantasm (1)",
+      "last_updated": "1787485255",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qe4gbdo9q7j"
+      }
+    },
+    "105": {
+      "title": "Day 10 - Sweet and Spicy (4)",
+      "last_updated": "1787485266",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvodmpb78"
+      }
+    },
+    "110": {
+      "title": "Day 10 - Steal (5)",
+      "last_updated": "1787485271",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbe5ob4n"
+      }
+    },
+    "107": {
+      "title": "Day 10 - Steal (2)",
+      "last_updated": "1787485272",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qzonbyn"
+      }
     }
   }
 }
