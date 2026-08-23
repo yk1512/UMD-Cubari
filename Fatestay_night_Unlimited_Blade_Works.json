@@ -5,77 +5,12 @@
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/7ADwQpS.jpg",
   "chapters": {
-    "001": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "002": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "003.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "003.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "003.5": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "004": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "005": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "006": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "007": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "008.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "008.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
     "008.5": {
       "title": "",
       "last_updated": "1787481397",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/qb4zo9xd37j"
       }
-    },
-    "009": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "010": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
     },
     "011.1": {
       "title": "",
@@ -91,112 +26,12 @@
         "UMD": "/proxy/api/imgchest/chapter/9p4nbernz4n"
       }
     },
-    "012": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "013": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "013.5": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "014.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "014.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "015": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "016": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "017": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "018": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "018.5": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "019": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "020": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "021": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
     "022.1": {
       "title": "",
       "last_updated": "1787481458",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3x23yd"
       }
-    },
-    "022.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "023": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "023.5": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "024": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "025.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "025.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "026": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
     },
     "026.5": {
       "title": "",
@@ -205,82 +40,12 @@
         "UMD": "/proxy/api/imgchest/chapter/9249qz6w2yn"
       }
     },
-    "027": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "027.5": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "028.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "028.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "029.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "029.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "030.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "030.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "031": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
     "031.5": {
       "title": "",
       "last_updated": "1787479144",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/ljyqo9onk42"
       }
-    },
-    "032.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "032.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "033.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "033.2": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
-    },
-    "034.1": {
-      "title": "",
-      "last_updated": "1787481806",
-      "groups": {}
     }
   }
 }
