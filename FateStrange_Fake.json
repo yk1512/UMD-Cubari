@@ -1,6 +1,6 @@
 {
   "title": "Fate/Strange Fake",
-  "description": "After the end of the third Grail War, a group of magi separate from the London based Mage Association decided that they would copy the ritual. They only managed to copy part of the ritual, which lead to the loss of the Saber class and further loss of the definition of a \"Hero.\" The magi eventually infiltrated the U.S. Government and for two hundred years manipulated events in Snowfield, California to replicate the Sacred Land needed to generate a Grail.",
+  "description": "Several years after the Fifth Holy Grail War, a Grail War riddled with fakes begins in Snowfield, in the American West. Mages and Heroic Spirits gather, drawn by the Grail. On a false stage, a battle to see their convictions through begins.",
   "artist": "Morii Shizuki",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/51Rdl4F.jpg",
@@ -10,6 +10,13 @@
       "last_updated": "1787480601",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/na7kbz62378"
+      }
+    },
+    "001": {
+      "title": "Archer",
+      "last_updated": "1787485147",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxb857b"
       }
     },
     "002": {
@@ -33,18 +40,25 @@
         "UMD": "/proxy/api/imgchest/chapter/vj4jbdaj378"
       }
     },
+    "017.2": {
+      "title": "",
+      "last_updated": "1787485164",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/o24abpzo27l"
+      }
+    },
+    "017.3": {
+      "title": "",
+      "last_updated": "1787485170",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/bp459xaeq75"
+      }
+    },
     "018": {
       "title": "",
       "last_updated": "1787480693",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokwlpyq"
-      }
-    },
-    "001": {
-      "title": "Archer",
-      "last_updated": "1787485147",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/xny8jxb857b"
       }
     },
     "019": {
@@ -54,25 +68,11 @@
         "UMD": "/proxy/api/imgchest/chapter/qb4zo9aqd7j"
       }
     },
-    "017.2": {
-      "title": "",
-      "last_updated": "1787485164",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/o24abpzo27l"
-      }
-    },
     "020": {
       "title": "",
       "last_updated": "1787485170",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/vj4jbdrz378"
-      }
-    },
-    "017.3": {
-      "title": "",
-      "last_updated": "1787485170",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/bp459xaeq75"
       }
     },
     "021": {
