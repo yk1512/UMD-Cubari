@@ -1,17 +1,10 @@
 {
   "title": "Fate/Grand Order SABER WARS II Side Story: Jane & Ishtar",
   "description": "",
-  "artist": "",
+  "artist": "Moriyama Daisuke",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/8RDlHUN.jpg",
   "chapters": {
-    "2.5": {
-      "title": "",
-      "last_updated": "1787477717",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/6eyrogorkyp"
-      }
-    },
     "1": {
       "title": "",
       "last_updated": "1787477780",
@@ -24,6 +17,13 @@
       "last_updated": "1787477791",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/ej7momozq4d"
+      }
+    },
+    "2.5": {
+      "title": "",
+      "last_updated": "1787477717",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/6eyrogorkyp"
       }
     }
   }
