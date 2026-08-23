@@ -5,18 +5,18 @@
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/v3VLpmp.jpg",
   "chapters": {
-    "057": {
-      "title": "North American Myth War: END III",
-      "last_updated": "1787489286",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qb4zo33m37j"
-      }
-    },
     "056": {
       "title": "North American Myth War: END II",
       "last_updated": "1787489288",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/lqyebvvn3yd"
+      }
+    },
+    "057": {
+      "title": "North American Myth War: END III",
+      "last_updated": "1787489286",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo33m37j"
       }
     },
     "058": {
@@ -117,18 +117,18 @@
         "UMD": "/proxy/api/imgchest/chapter/5xy26eej94l"
       }
     },
-    "073": {
-      "title": "Seventh Singularity 12",
-      "last_updated": "1787489472",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ne7bbpp9j75"
-      }
-    },
     "072": {
       "title": "Seventh Singularity 11",
       "last_updated": "1787489474",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/bp45988vq75"
+      }
+    },
+    "073": {
+      "title": "Seventh Singularity 12",
+      "last_updated": "1787489472",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ne7bbpp9j75"
       }
     },
     "074": {
@@ -208,11 +208,11 @@
         "UMD": "/proxy/api/imgchest/chapter/vj4jb33x378"
       }
     },
-    "087": {
-      "title": "Seventh Singularity 26",
-      "last_updated": "1787489647",
+    "085": {
+      "title": "Seventh Singularity 24",
+      "last_updated": "1787489656",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/vj4jb33r378"
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo33g57j"
       }
     },
     "086": {
@@ -222,11 +222,18 @@
         "UMD": "/proxy/api/imgchest/chapter/bp45988wn75"
       }
     },
-    "085": {
-      "title": "Seventh Singularity 24",
-      "last_updated": "1787489656",
+    "087": {
+      "title": "Seventh Singularity 26",
+      "last_updated": "1787489647",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qb4zo33g57j"
+        "UMD": "/proxy/api/imgchest/chapter/vj4jb33r378"
+      }
+    },
+    "088": {
+      "title": "Seventh Singularity 27",
+      "last_updated": "1787521784",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo3a257j"
       }
     },
     "089": {
@@ -243,18 +250,18 @@
         "UMD": "/proxy/api/imgchest/chapter/m9yxovvz6yq"
       }
     },
-    "092": {
-      "title": "Seventh Singularity 31",
-      "last_updated": "1787489717",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9249qaao8yn"
-      }
-    },
     "091": {
       "title": "Seventh Singularity 30",
       "last_updated": "1787489720",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/agyvo66mk78"
+      }
+    },
+    "092": {
+      "title": "Seventh Singularity 31",
+      "last_updated": "1787489717",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qaao8yn"
       }
     },
     "093": {
@@ -264,32 +271,18 @@
         "UMD": "/proxy/api/imgchest/chapter/o24abgkxe7l"
       }
     },
+    "094": {
+      "title": "Seventh Singularity 33",
+      "last_updated": "1787521812",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qe4gblo9q7j"
+      }
+    },
     "095": {
       "title": "Seventh Singularity Finale: Childhood's End 1",
       "last_updated": "1787489777",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/5xy26elp34l"
-      }
-    },
-    "098": {
-      "title": "Seventh Singularity Finale 4",
-      "last_updated": "1787489785",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/pg73vpj9oyr"
-      }
-    },
-    "097": {
-      "title": "Seventh Singularity Finale 3",
-      "last_updated": "1787489814",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/xny8jzlxw7b"
-      }
-    },
-    "088": {
-      "title": "Seventh Singularity 27",
-      "last_updated": "1787521784",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qb4zo3a257j"
       }
     },
     "096": {
@@ -299,11 +292,18 @@
         "UMD": "/proxy/api/imgchest/chapter/bp4598avn75"
       }
     },
-    "094": {
-      "title": "Seventh Singularity 33",
-      "last_updated": "1787521812",
+    "097": {
+      "title": "Seventh Singularity Finale 3",
+      "last_updated": "1787489814",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qe4gblo9q7j"
+        "UMD": "/proxy/api/imgchest/chapter/xny8jzlxw7b"
+      }
+    },
+    "098": {
+      "title": "Seventh Singularity Finale 4",
+      "last_updated": "1787489785",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/pg73vpj9oyr"
       }
     }
   }
