@@ -1,78 +1,78 @@
 {
   "title": "Tsukihime -A piece of blue glass moon- COMIC à la carte",
   "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "artist": "Piyo, Hoshi Naosuke, TAa, nipi, Uhanako, metalog",
+  "author": "Type-Moon",
+  "cover": "https://i.imgur.com/fvwnybO.jpg",
   "chapters": {
+    "1": {
+      "title": "- The Princess_ Point Card",
+      "last_updated": "1787477605",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ne7bbwz8v75"
+      }
+    },
     "10": {
       "title": "- Promise",
       "last_updated": "1787477600",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/m9yxokazkyq"
-      }
-    },
-    "3": {
-      "title": "- The Princess Goes to the Convenience Store",
-      "last_updated": "1787477603",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9p4nbed5l4n"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/m9yxokazkyq"
       }
     },
     "2": {
       "title": "- A Gentle Death",
       "last_updated": "1787477604",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9249qzboayn"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/9249qzboayn"
       }
     },
-    "1": {
-      "title": "- The Princess_ Point Card",
-      "last_updated": "1787477605",
+    "3": {
+      "title": "- The Princess Goes to the Convenience Store",
+      "last_updated": "1787477603",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ne7bbwz8v75"
-      }
-    },
-    "7": {
-      "title": "- Mary Knows Everything",
-      "last_updated": "1787477616",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/5xy26pvwn4l"
-      }
-    },
-    "5": {
-      "title": "- Noel-Sensei, Day of Passion",
-      "last_updated": "1787477618",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/vj4jbd2re78"
-      }
-    },
-    "6": {
-      "title": "- Lies",
-      "last_updated": "1787477619",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ljyqo93nk42"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/9p4nbed5l4n"
       }
     },
     "4": {
       "title": "- Akiha and Ciel in Messian",
       "last_updated": "1787477621",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/wl7lbxjeo4x"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/wl7lbxjeo4x"
       }
     },
-    "9": {
-      "title": "- Leisure",
-      "last_updated": "1787477636",
+    "5": {
+      "title": "- Noel-Sensei, Day of Passion",
+      "last_updated": "1787477618",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/6eyrogwpkyp"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/vj4jbd2re78"
+      }
+    },
+    "6": {
+      "title": "- Lies",
+      "last_updated": "1787477619",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo93nk42"
+      }
+    },
+    "7": {
+      "title": "- Mary Knows Everything",
+      "last_updated": "1787477616",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/5xy26pvwn4l"
       }
     },
     "8": {
       "title": "- Ordinary, Yet Promising",
       "last_updated": "1787477636",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ljyqo93ne42"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo93ne42"
+      }
+    },
+    "9": {
+      "title": "- Leisure",
+      "last_updated": "1787477636",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogwpkyp"
       }
     }
   }
