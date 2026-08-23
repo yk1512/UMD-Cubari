@@ -3,8 +3,15 @@
   "description": "",
   "artist": "Mameneko No. 2, Ashida Yuri, nAkuta, Hoshino Makoto, nipi, Takenashi Eri, Azami Masurao, Gonta, furu, Uhanako, Royst, Takahara Yu, Ryousuke, metalog",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/V7zCgil.jpg",
   "chapters": {
+    "1": {
+      "title": "- The Moon Princess Can Pretty Much Create Anything",
+      "last_updated": "1787478170",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/na7kbzboq78"
+      }
+    },
     "10": {
       "title": "- Good Morning Akiha!",
       "last_updated": "1787478163",
@@ -26,11 +33,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ne7bbwb5n75"
       }
     },
-    "1": {
-      "title": "- The Moon Princess Can Pretty Much Create Anything",
-      "last_updated": "1787478170",
+    "13": {
+      "title": "- Nevertheless, Tomorrow will Arrive",
+      "last_updated": "1787478176",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/na7kbzboq78"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/wl7lbxb9p4x"
       }
     },
     "2": {
@@ -40,20 +47,6 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/9rydb5bxw4k"
       }
     },
-    "13": {
-      "title": "- Nevertheless, Tomorrow will Arrive",
-      "last_updated": "1787478176",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/wl7lbxb9p4x"
-      }
-    },
-    "4": {
-      "title": "- Dream of the Twelfth Lunar Month",
-      "last_updated": "1787478177",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogoveyp"
-      }
-    },
     "3": {
       "title": "- Freeze, Noel-sensei!",
       "last_updated": "1787478182",
@@ -61,11 +54,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/vj4jbdb9278"
       }
     },
-    "7": {
-      "title": "- You_re Slacking Off",
-      "last_updated": "1787478183",
+    "4": {
+      "title": "- Dream of the Twelfth Lunar Month",
+      "last_updated": "1787478177",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/n87wo6odzyx"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogoveyp"
       }
     },
     "5": {
@@ -82,11 +75,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/pg73v9vrzyr"
       }
     },
-    "9": {
-      "title": "- The Melancholy of a Certain True Ancestor",
-      "last_updated": "1787478194",
+    "7": {
+      "title": "- You_re Slacking Off",
+      "last_updated": "1787478183",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/xny8jxjvo7b"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/n87wo6odzyx"
       }
     },
     "8": {
@@ -94,6 +87,13 @@
       "last_updated": "1787478195",
       "groups": {
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/qe4gbdbjr7j"
+      }
+    },
+    "9": {
+      "title": "- The Melancholy of a Certain True Ancestor",
+      "last_updated": "1787478194",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/xny8jxjvo7b"
       }
     }
   }
