@@ -1,0 +1,16 @@
+{
+  "title": "Hazakura Romantic",
+  "description": "",
+  "artist": "Suzuki Maito",
+  "author": "Type-Moon",
+  "cover": "https://i.imgur.com/JWZ0KZe.jpg",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1787476795",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvod8nb78"
+      }
+    }
+  }
+}
