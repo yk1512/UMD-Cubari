@@ -1,0 +1,65 @@
+{
+  "title": "Fate/Samurai Remnant",
+  "description": "",
+  "artist": "Mugetsu",
+  "author": "Type-Moon",
+  "cover": "https://i.imgur.com/V3O25Ff.jpg",
+  "chapters": {
+    "001.1": {
+      "title": "",
+      "last_updated": "1787472583",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbx8wx4x"
+      }
+    },
+    "001.2": {
+      "title": "",
+      "last_updated": "1787472536",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26pjoz4l"
+      }
+    },
+    "001.3": {
+      "title": "",
+      "last_updated": "1787473405",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbx8q64x"
+      }
+    },
+    "002.1": {
+      "title": "",
+      "last_updated": "1787472562",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/6eyrogbnxyp"
+      }
+    },
+    "002.2": {
+      "title": "",
+      "last_updated": "1787472563",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9bp57j"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1787472586",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxw627b"
+      }
+    },
+    "004.1": {
+      "title": "",
+      "last_updated": "1787472585",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbeazb4n"
+      }
+    },
+    "004.2": {
+      "title": "",
+      "last_updated": "1787472578",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokbnpyq"
+      }
+    }
+  }
+}
