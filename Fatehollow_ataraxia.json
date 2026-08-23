@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Medori",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/hnugXI5.jpg",
   "chapters": {
     "000": {
       "title": "",
@@ -11,6 +11,16 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/wl7lbxb5x4x"
       }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
     },
     "003": {
       "title": "",
@@ -26,12 +36,15 @@
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3bnmyd"
       }
     },
-    "009": {
+    "005": {
       "title": "",
-      "last_updated": "1787478506",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/xny8jxj927b"
-      }
+      "last_updated": "1787481784",
+      "groups": {}
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
     },
     "007": {
       "title": "",
@@ -39,6 +52,33 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/vj4jbdb6378"
       }
+    },
+    "008": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1787478506",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxj927b"
+      }
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
+    },
+    "011": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
+    },
+    "012": {
+      "title": "",
+      "last_updated": "1787481784",
+      "groups": {}
     },
     "012.1": {
       "title": "",
