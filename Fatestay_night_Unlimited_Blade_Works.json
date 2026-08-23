@@ -3,13 +3,48 @@
   "description": "",
   "artist": "Moriyama Daisuke",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/7ADwQpS.jpg",
   "chapters": {
     "031.5": {
       "title": "",
       "last_updated": "1787479144",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/ljyqo9onk42"
+      }
+    },
+    "008.5": {
+      "title": "",
+      "last_updated": "1787481397",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9xd37j"
+      }
+    },
+    "011.1": {
+      "title": "",
+      "last_updated": "1787481417",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxok6j3yq"
+      }
+    },
+    "011.2": {
+      "title": "",
+      "last_updated": "1787481430",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbernz4n"
+      }
+    },
+    "022.1": {
+      "title": "",
+      "last_updated": "1787481458",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb3x23yd"
+      }
+    },
+    "026.5": {
+      "title": "",
+      "last_updated": "1787481462",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qz6w2yn"
       }
     }
   }
