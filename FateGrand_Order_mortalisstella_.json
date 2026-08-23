@@ -1,0 +1,51 @@
+{
+  "title": "Fate/Grand Order -mortalis:stella-",
+  "description": "",
+  "artist": "Shiramine",
+  "author": "Type-Moon",
+  "cover": "",
+  "chapters": {
+    "018.2": {
+      "title": "- The Queen's Crown (Part 2)",
+      "last_updated": "1787478611",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvodoab78"
+      }
+    },
+    "021.1": {
+      "title": "- Eternal Empire (Part 1)",
+      "last_updated": "1787478616",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/md7oogo327p"
+      }
+    },
+    "021.3": {
+      "title": "- Eternal Empire (Part 3)",
+      "last_updated": "1787478627",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbzbq378"
+      }
+    },
+    "021.5": {
+      "title": "- Eternal Empire (Part 5)",
+      "last_updated": "1787478629",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbxb8x4x"
+      }
+    },
+    "024.2": {
+      "title": "- Devil (Part 2)",
+      "last_updated": "1787478644",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/6eyrogoblyp"
+      }
+    },
+    "024.5": {
+      "title": "- Interlude",
+      "last_updated": "1787478653",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6obqyx"
+      }
+    }
+  }
+}
