@@ -1,10 +1,24 @@
 {
   "title": "Melty Blood: Back Alley Nightmare",
-  "description": "The Official Melty/Tsukihime/Fate Grand Order Crossover Manga Melty Blood: Rojiura Nightmare is a spin-off and sequel to the Melty Blood fighting games and manga, as well as the Fate/Grand Order mobile game.",
+  "description": "The Atlas Institute, Sion’s old home, has prepared many doors of possibility. In each of those worlds, her will is put to the test. Will her conviction that the future can be changed be broken?",
   "artist": "Kirishima Takeru",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/YTywxWr.jpg",
   "chapters": {
+    "001.1": {
+      "title": "",
+      "last_updated": "1787485095",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokzqqyq"
+      }
+    },
+    "001.2": {
+      "title": "",
+      "last_updated": "1787485069",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/dl7pojx6p4o"
+      }
+    },
     "002": {
       "title": "",
       "last_updated": "1787480521",
@@ -17,6 +31,13 @@
       "last_updated": "1787480548",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokwqpyq"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1787485029",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/o24abpzm27l"
       }
     },
     "004.5": {
@@ -33,11 +54,25 @@
         "UMD": "/proxy/api/imgchest/chapter/wl7lbxbp34x"
       }
     },
+    "006": {
+      "title": "",
+      "last_updated": "1787485060",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qzo9myn"
+      }
+    },
     "007": {
       "title": "",
       "last_updated": "1787480569",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/vj4jbda5378"
+      }
+    },
+    "008": {
+      "title": "",
+      "last_updated": "1787485084",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/pg73v9z2jyr"
       }
     },
     "009": {
@@ -59,41 +94,6 @@
       "last_updated": "1787480564",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/xny8jxdr27b"
-      }
-    },
-    "004": {
-      "title": "",
-      "last_updated": "1787485029",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/o24abpzm27l"
-      }
-    },
-    "006": {
-      "title": "",
-      "last_updated": "1787485060",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9249qzo9myn"
-      }
-    },
-    "001.2": {
-      "title": "",
-      "last_updated": "1787485069",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/dl7pojx6p4o"
-      }
-    },
-    "008": {
-      "title": "",
-      "last_updated": "1787485084",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/pg73v9z2jyr"
-      }
-    },
-    "001.1": {
-      "title": "",
-      "last_updated": "1787485095",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/m9yxokzqqyq"
       }
     }
   }
