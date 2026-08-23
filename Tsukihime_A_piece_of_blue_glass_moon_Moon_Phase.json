@@ -3,15 +3,8 @@
   "description": "",
   "artist": "Nakatani",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/uTGfbll.jpg",
   "chapters": {
-    "2": {
-      "title": "- The Tomorrow I call by Your Name",
-      "last_updated": "1787477999",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/5xy26p6lj4l"
-      }
-    },
     "1": {
       "title": "- The Magician Reflected in his Eyes",
       "last_updated": "1787478014",
@@ -19,11 +12,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo9odo42"
       }
     },
-    "4": {
-      "title": "- Where Eternity Comes to Die",
-      "last_updated": "1787478020",
+    "2": {
+      "title": "- The Tomorrow I call by Your Name",
+      "last_updated": "1787477999",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/vj4jbdbw278"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/5xy26p6lj4l"
       }
     },
     "3": {
@@ -31,6 +24,13 @@
       "last_updated": "1787478023",
       "groups": {
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogodeyp"
+      }
+    },
+    "4": {
+      "title": "- Where Eternity Comes to Die",
+      "last_updated": "1787478020",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/vj4jbdbw278"
       }
     },
     "5": {
