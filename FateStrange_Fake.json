@@ -39,6 +39,48 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokwlpyq"
       }
+    },
+    "001": {
+      "title": "Archer",
+      "last_updated": "1787485147",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxb857b"
+      }
+    },
+    "019": {
+      "title": "",
+      "last_updated": "1787485156",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9aqd7j"
+      }
+    },
+    "017.2": {
+      "title": "",
+      "last_updated": "1787485164",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/o24abpzo27l"
+      }
+    },
+    "020": {
+      "title": "",
+      "last_updated": "1787485170",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/vj4jbdrz378"
+      }
+    },
+    "017.3": {
+      "title": "",
+      "last_updated": "1787485170",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/bp459xaeq75"
+      }
+    },
+    "021": {
+      "title": "",
+      "last_updated": "1787485192",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ljyqo9nbd42"
+      }
     }
   }
 }
