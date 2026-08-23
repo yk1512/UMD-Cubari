@@ -1,6 +1,6 @@
 {
   "title": "Fate/kaleid liner PRISMA ILLYA 3rei!",
-  "description": "Just as Miyu was about to be saved from being swallowed by despair, all of a sudden mysterious duo that mastered Heroic Spirit Class Card system appears in front of Illya! (A direct continuation of the second act, \"2wei\" - manga upholds the tradition of having punny names based on german numbers and was appropriately titled \"3rei\", which comes from deutsch \"drei\" meaning \"three\".) ---",
+  "description": "They have barely pulled Miyu out of the despair that swallowed her when a mysterious pair of sisters appears before Illya and the others—sisters who already know how to use Class Cards.",
   "artist": "Hiroyama Hiroshi",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/VEeGrIs.jpg",
@@ -33,11 +33,32 @@
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/o24abpb827l"
       }
     },
+    "072.2": {
+      "title": "Come Forth, Guardians of the Scales!",
+      "last_updated": "1787484611",
+      "groups": {
+        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/lqyeb39g3yd"
+      }
+    },
+    "073.1": {
+      "title": "With Just That Swing",
+      "last_updated": "1787484618",
+      "groups": {
+        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/n87wo6wxzyx"
+      }
+    },
     "073.2": {
       "title": "Shoot",
       "last_updated": "1787478298",
       "groups": {
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/vj4jbdbgx78"
+      }
+    },
+    "074.1": {
+      "title": "This Is Who I Am",
+      "last_updated": "1787484609",
+      "groups": {
+        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/pg73v9zgzyr"
       }
     },
     "074.2": {
@@ -80,27 +101,6 @@
       "last_updated": "1787478327",
       "groups": {
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/9p4nbeb8m4n"
-      }
-    },
-    "074.1": {
-      "title": "This Is Who I Am",
-      "last_updated": "1787484609",
-      "groups": {
-        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/pg73v9zgzyr"
-      }
-    },
-    "072.2": {
-      "title": "Come Forth, Guardians of the Scales!",
-      "last_updated": "1787484611",
-      "groups": {
-        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/lqyeb39g3yd"
-      }
-    },
-    "073.1": {
-      "title": "With Just That Swing",
-      "last_updated": "1787484618",
-      "groups": {
-        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/n87wo6wxzyx"
       }
     }
   }
