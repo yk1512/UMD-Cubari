@@ -26,11 +26,6 @@
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3bdqyd"
       }
     },
-    "045": {
-      "title": "",
-      "last_updated": "1787481781",
-      "groups": {}
-    },
     "046": {
       "title": "",
       "last_updated": "1787478383",
@@ -38,32 +33,12 @@
         "UMD": "/proxy/api/imgchest/chapter/agyvodoxj78"
       }
     },
-    "047": {
-      "title": "",
-      "last_updated": "1787481781",
-      "groups": {}
-    },
-    "048": {
-      "title": "",
-      "last_updated": "1787481781",
-      "groups": {}
-    },
     "049": {
       "title": "",
       "last_updated": "1787478404",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/pg73v9vojyr"
       }
-    },
-    "050": {
-      "title": "",
-      "last_updated": "1787481781",
-      "groups": {}
-    },
-    "051": {
-      "title": "",
-      "last_updated": "1787481781",
-      "groups": {}
     }
   }
 }
