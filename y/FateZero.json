@@ -1,0 +1,69 @@
+{
+  "title": "Fate/Zero",
+  "description": "",
+  "artist": "Shinjirou",
+  "author": "Type-Moon",
+  "cover": "https://i.imgur.com/2N6IyWw.jpg",
+  "chapters": {
+    "042": {
+      "title": "",
+      "last_updated": "1787478367",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6o9gyx"
+      }
+    },
+    "043": {
+      "title": "",
+      "last_updated": "1787480253",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbz68b78"
+      }
+    },
+    "044": {
+      "title": "",
+      "last_updated": "1787478375",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb3bdqyd"
+      }
+    },
+    "045": {
+      "title": "",
+      "last_updated": "1787481781",
+      "groups": {}
+    },
+    "046": {
+      "title": "",
+      "last_updated": "1787478383",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvodoxj78"
+      }
+    },
+    "047": {
+      "title": "",
+      "last_updated": "1787481781",
+      "groups": {}
+    },
+    "048": {
+      "title": "",
+      "last_updated": "1787481781",
+      "groups": {}
+    },
+    "049": {
+      "title": "",
+      "last_updated": "1787478404",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/pg73v9vojyr"
+      }
+    },
+    "050": {
+      "title": "",
+      "last_updated": "1787481781",
+      "groups": {}
+    },
+    "051": {
+      "title": "",
+      "last_updated": "1787481781",
+      "groups": {}
+    }
+  }
+}
