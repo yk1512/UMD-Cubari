@@ -5,11 +5,6 @@
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/DYk0Zp2.jpg",
   "chapters": {
-    "005.5": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
     "006": {
       "title": "",
       "last_updated": "1787481159",
@@ -24,11 +19,6 @@
         "UMD": "/proxy/api/imgchest/chapter/ne7bbwawv75"
       }
     },
-    "008": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
     "009": {
       "title": "",
       "last_updated": "1787481178",
@@ -36,32 +26,12 @@
         "UMD": "/proxy/api/imgchest/chapter/md7oogmg97p"
       }
     },
-    "010": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
     "011": {
       "title": "",
       "last_updated": "1787481206",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/qb4zo9x9g7j"
       }
-    },
-    "012": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "013": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "014": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
     },
     "015": {
       "title": "",
@@ -84,42 +54,12 @@
         "UMD": "/proxy/api/imgchest/chapter/6eyroge2kyp"
       }
     },
-    "018.1": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "018.2": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "018.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "019": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
     "020.1": {
       "title": "",
       "last_updated": "1787481267",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/bp459xgdx75"
       }
-    },
-    "020.2": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "021": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
     },
     "022.1": {
       "title": "",
@@ -134,11 +74,6 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/9rydb5kpd4k"
       }
-    },
-    "022.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
     },
     "022.4": {
       "title": "",
@@ -161,36 +96,6 @@
         "UMD": "/proxy/api/imgchest/chapter/qb4zo9xkg7j"
       }
     },
-    "023.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "023.4": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "024.1": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "024.2": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "024.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "024.4": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
     "025.1": {
       "title": "",
       "last_updated": "1787481350",
@@ -204,16 +109,6 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/5xy26pk3n4l"
       }
-    },
-    "026.1": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "026.2": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
     },
     "027.1": {
       "title": "",
@@ -229,47 +124,12 @@
         "UMD": "/proxy/api/imgchest/chapter/6eyroge8kyp"
       }
     },
-    "027.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "028.1": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
     "028.2": {
       "title": "",
       "last_updated": "1787481366",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/o24abp5ag7l"
       }
-    },
-    "028.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "029.1": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "029.2": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "029.3": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
-    },
-    "029.4": {
-      "title": "",
-      "last_updated": "1787481803",
-      "groups": {}
     }
   }
 }
