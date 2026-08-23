@@ -1,0 +1,37 @@
+{
+  "title": "Fate/Grand Order: Gouka Kenran Mugetsu Sakuhinshuu",
+  "description": "",
+  "artist": "",
+  "author": "Type-Moon",
+  "cover": "",
+  "chapters": {
+    "2": {
+      "title": "- Senji Muramasa vs Yagyuu Tajima-no-Kami Munenori",
+      "last_updated": "1787477671",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9vag7j"
+      }
+    },
+    "5": {
+      "title": "- Genji vs Dragon",
+      "last_updated": "1787477685",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qe4gbd6oo7j"
+      }
+    },
+    "4": {
+      "title": "- Mordred vs Caenis",
+      "last_updated": "1787477702",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxjpp7b"
+      }
+    },
+    "1": {
+      "title": "- Miyamoto Musashi vs Okita Souji",
+      "last_updated": "1787477706",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb359xyd"
+      }
+    }
+  }
+}
