@@ -1,6 +1,6 @@
 {
   "title": "Fate/Grand Order -mortalis:stella-",
-  "description": "The official adaptation of the TYPE-MOON phenomenon that has become one of the most popular mobile games in the world! The year is 2016, and glitches found in humanity’s past threaten the sustainability of its future. The Chaldea Security Organization - tasked with preserving human history for as long and as strongly as possible - has developed a new method of time travel to repair these events, stabilizing humanity’s future. But when an unknown threat pushes mankind to the brink of extinction, young recruits Mash Kyrielight and Ritsuka Fujimaru find themselves at the helm of the rescue mission: Obtain the Holy Grail in a face off against fate itself …",
+  "description": "Mash Kyrielight of the Human Order Preservation Agency, Chaldea, meets a boy one day. His name is Fujimaru Ritsuka, a civilian Master candidate gathered for a mission to protect the future of human history. Then, just before the operation, an explosion of unknown cause tears through Chaldea. So begins the Holy Grail War of humanity’s last Master, and the girl who stands as his shield.",
   "artist": "Shiramine",
   "author": "Type-Moon",
   "cover": "",
@@ -12,11 +12,25 @@
         "UMD": "/proxy/api/imgchest/chapter/agyvodoab78"
       }
     },
+    "019.1": {
+      "title": "Love (Part 1)",
+      "last_updated": "1787484966",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/a8462av6oyx"
+      }
+    },
     "019.2": {
       "title": "Love (Part 2)",
       "last_updated": "1787480443",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/md7oogn5r7p"
+      }
+    },
+    "019.3": {
+      "title": "Love (Part 3)",
+      "last_updated": "1787484966",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/o24abpzn27l"
       }
     },
     "020.1": {
@@ -40,11 +54,25 @@
         "UMD": "/proxy/api/imgchest/chapter/md7oogo327p"
       }
     },
+    "021.2": {
+      "title": "Eternal Empire (Part 2)",
+      "last_updated": "1787484955",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/bp459xa6q75"
+      }
+    },
     "021.3": {
       "title": "Eternal Empire (Part 3)",
       "last_updated": "1787478627",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/na7kbzbq378"
+      }
+    },
+    "021.4": {
+      "title": "Eternal Empire (Part 4)",
+      "last_updated": "1787484946",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxb257b"
       }
     },
     "021.5": {
@@ -59,6 +87,27 @@
       "last_updated": "1787480452",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/ljyqo9l5n42"
+      }
+    },
+    "022.1": {
+      "title": "Death World in the Demonic Fog City, London (Part 1)",
+      "last_updated": "1787484966",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvodmjj78"
+      }
+    },
+    "022.2": {
+      "title": "Death World in the Demonic Fog City, London (Part 2)",
+      "last_updated": "1787484975",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ne7bbw8nj75"
+      }
+    },
+    "023.1": {
+      "title": "Knight of Londinium (Part 1)",
+      "last_updated": "1787484982",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/vj4jbdrnx78"
       }
     },
     "023.2": {
@@ -82,11 +131,25 @@
         "UMD": "/proxy/api/imgchest/chapter/6eyrogoblyp"
       }
     },
+    "024.3": {
+      "title": "Devil (Part 3)",
+      "last_updated": "1787484987",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ljyqo9n5n42"
+      }
+    },
     "024.5": {
       "title": "Interlude",
       "last_updated": "1787478653",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/n87wo6obqyx"
+      }
+    },
+    "025.1": {
+      "title": "Beyond Good and Evil - Fragment One (Part 1)",
+      "last_updated": "1787484992",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbz35b78"
       }
     },
     "025.2": {
@@ -101,69 +164,6 @@
       "last_updated": "1787480474",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/qe4gbdg8q7j"
-      }
-    },
-    "021.4": {
-      "title": "Eternal Empire (Part 4)",
-      "last_updated": "1787484946",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/xny8jxb257b"
-      }
-    },
-    "021.2": {
-      "title": "Eternal Empire (Part 2)",
-      "last_updated": "1787484955",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/bp459xa6q75"
-      }
-    },
-    "019.3": {
-      "title": "Love (Part 3)",
-      "last_updated": "1787484966",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/o24abpzn27l"
-      }
-    },
-    "022.1": {
-      "title": "Death World in the Demonic Fog City, London (Part 1)",
-      "last_updated": "1787484966",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/agyvodmjj78"
-      }
-    },
-    "019.1": {
-      "title": "Love (Part 1)",
-      "last_updated": "1787484966",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/a8462av6oyx"
-      }
-    },
-    "022.2": {
-      "title": "Death World in the Demonic Fog City, London (Part 2)",
-      "last_updated": "1787484975",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ne7bbw8nj75"
-      }
-    },
-    "023.1": {
-      "title": "Knight of Londinium (Part 1)",
-      "last_updated": "1787484982",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/vj4jbdrnx78"
-      }
-    },
-    "024.3": {
-      "title": "Devil (Part 3)",
-      "last_updated": "1787484987",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ljyqo9n5n42"
-      }
-    },
-    "025.1": {
-      "title": "Beyond Good and Evil - Fragment One (Part 1)",
-      "last_updated": "1787484992",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/na7kbz35b78"
       }
     }
   }
