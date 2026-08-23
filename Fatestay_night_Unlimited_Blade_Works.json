@@ -1,85 +1,15 @@
 {
   "title": "Fate/stay night: Unlimited Blade Works",
-  "description": "The Holy Grail War is a battle royale among seven magi who serve as Masters. Masters, through the use of the command seals they are given when they enter the war, command Heroic Spirits known as Servants to fight for them in battle. In the Fifth Holy Grail War, Rin Tosaka is among the magi entering the competition. With her Servant, Archer, she hopes to obtain the ultimate prize—the Holy Grail, a magical artifact capable of granting its wielder any wish. One of Rin's classmates, Emiya Shirou, accidentally enters the competition and ends up commanding a Servant of his own known as Saber. As they find themselves facing mutual enemies, Rin and Shirou decide to form a temporary alliance as they challenge their opponents in the Holy Grail War.",
+  "description": "Once every few decades, a Holy Grail appears in Fuyuki City—an artifact said to grant its owner’s wish. Seven mages each contract with a Heroic Spirit and fight for it in the Holy Grail War. Tohsaka Rin, raised in a mage lineage, tries to summon Saber, the finest of Heroic Spirits, to carry on her father’s will. What appears before her is Archer, a Heroic Spirit who has forgotten even his own name.",
   "artist": "Moriyama Daisuke",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/7ADwQpS.jpg",
   "chapters": {
-    "008.5": {
+    "001": {
       "title": "",
-      "last_updated": "1787481397",
+      "last_updated": "1787485602",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qb4zo9xd37j"
-      }
-    },
-    "011.1": {
-      "title": "",
-      "last_updated": "1787481417",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/m9yxok6j3yq"
-      }
-    },
-    "011.2": {
-      "title": "",
-      "last_updated": "1787481430",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9p4nbernz4n"
-      }
-    },
-    "022.1": {
-      "title": "",
-      "last_updated": "1787481458",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/lqyeb3x23yd"
-      }
-    },
-    "026.5": {
-      "title": "",
-      "last_updated": "1787481462",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9249qz6w2yn"
-      }
-    },
-    "031.5": {
-      "title": "",
-      "last_updated": "1787479144",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ljyqo9onk42"
-      }
-    },
-    "003.1": {
-      "title": "",
-      "last_updated": "1787485517",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/na7kbz39w78"
-      }
-    },
-    "003.5": {
-      "title": "",
-      "last_updated": "1787485523",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/lqyeb398zyd"
-      }
-    },
-    "003.2": {
-      "title": "",
-      "last_updated": "1787485524",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ne7bbw8eg75"
-      }
-    },
-    "005": {
-      "title": "",
-      "last_updated": "1787485572",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/agyvodm3k78"
-      }
-    },
-    "004": {
-      "title": "",
-      "last_updated": "1787485576",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/a8462ave2yx"
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokz66yq"
       }
     },
     "002": {
@@ -89,18 +19,39 @@
         "UMD": "/proxy/api/imgchest/chapter/dl7pojxlj4o"
       }
     },
-    "001": {
+    "003.1": {
       "title": "",
-      "last_updated": "1787485602",
+      "last_updated": "1787485517",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/m9yxokz66yq"
+        "UMD": "/proxy/api/imgchest/chapter/na7kbz39w78"
       }
     },
-    "008.1": {
+    "003.2": {
       "title": "",
-      "last_updated": "1787485604",
+      "last_updated": "1787485524",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/o24abpzze7l"
+        "UMD": "/proxy/api/imgchest/chapter/ne7bbw8eg75"
+      }
+    },
+    "003.5": {
+      "title": "",
+      "last_updated": "1787485523",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb398zyd"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1787485576",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/a8462ave2yx"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1787485572",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvodm3k78"
       }
     },
     "006": {
@@ -117,11 +68,25 @@
         "UMD": "/proxy/api/imgchest/chapter/qb4zo9aal7j"
       }
     },
+    "008.1": {
+      "title": "",
+      "last_updated": "1787485604",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/o24abpzze7l"
+      }
+    },
     "008.2": {
       "title": "",
       "last_updated": "1787485636",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/5xy26ezz34l"
+      }
+    },
+    "008.5": {
+      "title": "",
+      "last_updated": "1787481397",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9xd37j"
       }
     },
     "009": {
@@ -138,18 +103,25 @@
         "UMD": "/proxy/api/imgchest/chapter/6eyro2rr6yp"
       }
     },
+    "011.1": {
+      "title": "",
+      "last_updated": "1787481417",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxok6j3yq"
+      }
+    },
+    "011.2": {
+      "title": "",
+      "last_updated": "1787481430",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbernz4n"
+      }
+    },
     "014.2": {
       "title": "",
       "last_updated": "1787485687",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/5xy26ezp84l"
-      }
-    },
-    "018.5": {
-      "title": "",
-      "last_updated": "1787485703",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9249qaxaayn"
       }
     },
     "016": {
@@ -159,13 +131,6 @@
         "UMD": "/proxy/api/imgchest/chapter/a8462xravyx"
       }
     },
-    "018": {
-      "title": "",
-      "last_updated": "1787485737",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9p4nb2g2l4n"
-      }
-    },
     "017": {
       "title": "",
       "last_updated": "1787485744",
@@ -173,11 +138,32 @@
         "UMD": "/proxy/api/imgchest/chapter/m9yxovxvkyq"
       }
     },
+    "018": {
+      "title": "",
+      "last_updated": "1787485737",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nb2g2l4n"
+      }
+    },
+    "018.5": {
+      "title": "",
+      "last_updated": "1787485703",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qaxaayn"
+      }
+    },
     "020": {
       "title": "",
       "last_updated": "1787485753",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/vj4jb3o3e78"
+      }
+    },
+    "022.1": {
+      "title": "",
+      "last_updated": "1787481458",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb3x23yd"
       }
     },
     "023.5": {
@@ -201,6 +187,13 @@
         "UMD": "/proxy/api/imgchest/chapter/dl7poqgzk4o"
       }
     },
+    "026.5": {
+      "title": "",
+      "last_updated": "1787481462",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qz6w2yn"
+      }
+    },
     "027.5": {
       "title": "",
       "last_updated": "1787485793",
@@ -220,6 +213,13 @@
       "last_updated": "1787485817",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/qe4gblvrb7j"
+      }
+    },
+    "031.5": {
+      "title": "",
+      "last_updated": "1787479144",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ljyqo9onk42"
       }
     },
     "032.1": {
