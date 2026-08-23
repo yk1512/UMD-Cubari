@@ -12,11 +12,6 @@
         "UMD": "/proxy/api/imgchest/chapter/na7kbz62378"
       }
     },
-    "001": {
-      "title": "- Archer",
-      "last_updated": "1787481795",
-      "groups": {}
-    },
     "002": {
       "title": "- Berserker",
       "last_updated": "1787480660",
@@ -38,37 +33,12 @@
         "UMD": "/proxy/api/imgchest/chapter/vj4jbdaj378"
       }
     },
-    "017.2": {
-      "title": "",
-      "last_updated": "1787481795",
-      "groups": {}
-    },
-    "017.3": {
-      "title": "",
-      "last_updated": "1787481795",
-      "groups": {}
-    },
     "018": {
       "title": "",
       "last_updated": "1787480693",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokwlpyq"
       }
-    },
-    "019": {
-      "title": "",
-      "last_updated": "1787481795",
-      "groups": {}
-    },
-    "020": {
-      "title": "",
-      "last_updated": "1787481795",
-      "groups": {}
-    },
-    "021": {
-      "title": "",
-      "last_updated": "1787481795",
-      "groups": {}
     }
   }
 }
