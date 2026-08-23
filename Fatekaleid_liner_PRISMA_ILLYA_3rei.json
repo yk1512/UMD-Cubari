@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Hiroyama Hiroshi",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/VEeGrIs.jpg",
   "chapters": {
     "070.2": {
       "title": "- Sparkling Stars",
@@ -19,13 +19,6 @@
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/a8462a25oyx"
       }
     },
-    "072.1": {
-      "title": "- That Gap",
-      "last_updated": "1787478272",
-      "groups": {
-        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/o24abpb827l"
-      }
-    },
     "071.2": {
       "title": "- That Name",
       "last_updated": "1787478283",
@@ -33,12 +26,34 @@
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/agyvodo9j78"
       }
     },
+    "072.1": {
+      "title": "- That Gap",
+      "last_updated": "1787478272",
+      "groups": {
+        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/o24abpb827l"
+      }
+    },
+    "072.2": {
+      "title": "- Come Forth, Guardians of the Scales!",
+      "last_updated": "1787481779",
+      "groups": {}
+    },
+    "073.1": {
+      "title": "- With Just That Swing",
+      "last_updated": "1787481779",
+      "groups": {}
+    },
     "073.2": {
       "title": "- Shoot",
       "last_updated": "1787478298",
       "groups": {
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/vj4jbdbgx78"
       }
+    },
+    "074.1": {
+      "title": "- This Is Who I Am",
+      "last_updated": "1787481779",
+      "groups": {}
     },
     "074.2": {
       "title": "- Welcome",
@@ -52,6 +67,13 @@
       "last_updated": "1787478305",
       "groups": {
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/qe4gbdbwj7j"
+      }
+    },
+    "075.2": {
+      "title": "- Who Am I？",
+      "last_updated": "1787480212",
+      "groups": {
+        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/9249qzr3myn"
       }
     },
     "076.1": {
@@ -73,13 +95,6 @@
       "last_updated": "1787478327",
       "groups": {
         "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/9p4nbeb8m4n"
-      }
-    },
-    "075.2": {
-      "title": "- Who Am I？",
-      "last_updated": "1787480212",
-      "groups": {
-        "UMD, Lambdadelta Ediciones": "/proxy/api/imgchest/chapter/9249qzr3myn"
       }
     }
   }
