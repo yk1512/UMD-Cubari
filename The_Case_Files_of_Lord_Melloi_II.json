@@ -4,5 +4,97 @@
   "artist": "Asuma Toh",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/4HDNkAr.jpg",
-  "chapters": {}
+  "chapters": {
+    "021": {
+      "title": "",
+      "last_updated": "1787489852",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qaja8yn"
+      }
+    },
+    "019": {
+      "title": "",
+      "last_updated": "1787489853",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/dl7poqzzj4o"
+      }
+    },
+    "020": {
+      "title": "",
+      "last_updated": "1787489857",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26ell34l"
+      }
+    },
+    "024": {
+      "title": "",
+      "last_updated": "1787489887",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9rydbzppn4k"
+      }
+    },
+    "025": {
+      "title": "",
+      "last_updated": "1787489897",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbrwem78"
+      }
+    },
+    "027": {
+      "title": "",
+      "last_updated": "1787489906",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/vj4jb3wve78"
+      }
+    },
+    "031": {
+      "title": "",
+      "last_updated": "1787489940",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26elb84l"
+      }
+    },
+    "030": {
+      "title": "",
+      "last_updated": "1787489941",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbkm3o4x"
+      }
+    },
+    "032": {
+      "title": "",
+      "last_updated": "1787489953",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyebvpqkyd"
+      }
+    },
+    "034": {
+      "title": "",
+      "last_updated": "1787489963",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26eld84l"
+      }
+    },
+    "065.1": {
+      "title": "",
+      "last_updated": "1787490114",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvo6erw78"
+      }
+    },
+    "066.1": {
+      "title": "",
+      "last_updated": "1787490117",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qaj3vyn"
+      }
+    },
+    "067.2": {
+      "title": "",
+      "last_updated": "1787490129",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbkmo64x"
+      }
+    }
+  }
 }
