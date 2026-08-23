@@ -1,6 +1,6 @@
 {
   "title": "Fate/hollow ataraxia",
-  "description": "The plot of Fate/hollow ataraxia is based half a year after the events of Fate/stay night. Like its preceding counterpart, the story is set in Fuyuki City. Bazett Fraga McRemitz, a member of the Mages' Association and a master in the 5th Holy Grail War, wakes on the fourth day of the 5th Holy Grail war with a new servant, Avenger, and no memory of what happened to her beforehand. She and Avenger set off to fight and win the Holy Grail War. Meanwhile, Shirō Emiya lives a peaceful life with all his friends from the 5th Holy Grail War. After one of her experiments changes time and space, Rin Tōsaka leaves for the Mages' Association in England to fix things. The Servants sense a new danger while dark creatures appear soon afterward. Shirō, as a precaution, sets off to ensure nobody is in danger and instead finds himself frequently meeting a mysterious girl, Caren Ortensia. Both Bazett and Shirō find themselves in time loop that lasts four days, beginning of the fourth day of the 5th Holy Grail War. Each time they die or survive four days, they always awake on the first day of the loop aware of what has happened to them since the first time loop began. Determined to end the loop, Bazett, Avenger, and Shirō fight to discover the truth behind what's causing the endless four days.",
+  "description": "Four promised days. Once more, the curtain of fate rises. The Holy Grail War ended half a year ago… and yet Saber and the other Servants have manifested again, living out peaceful days with Emiya Shirou and the rest. How?",
   "artist": "Medori",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/hnugXI5.jpg",
@@ -10,6 +10,20 @@
       "last_updated": "1787478418",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/wl7lbxb5x4x"
+      }
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1787484774",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/dl7pojx864o"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1787484750",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbe58z4n"
       }
     },
     "003": {
@@ -26,53 +40,11 @@
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3bnmyd"
       }
     },
-    "007": {
-      "title": "",
-      "last_updated": "1787478507",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/vj4jbdb6378"
-      }
-    },
-    "009": {
-      "title": "",
-      "last_updated": "1787478506",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/xny8jxj927b"
-      }
-    },
-    "012.1": {
-      "title": "",
-      "last_updated": "1787478513",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/dl7pojo634o"
-      }
-    },
-    "012.2": {
-      "title": "",
-      "last_updated": "1787478518",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/na7kbzbn378"
-      }
-    },
-    "002": {
-      "title": "",
-      "last_updated": "1787484750",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9p4nbe58z4n"
-      }
-    },
     "005": {
       "title": "",
       "last_updated": "1787484754",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokz33yq"
-      }
-    },
-    "001": {
-      "title": "",
-      "last_updated": "1787484774",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/dl7pojx864o"
       }
     },
     "006": {
@@ -82,11 +54,11 @@
         "UMD": "/proxy/api/imgchest/chapter/a8462avdwyx"
       }
     },
-    "010": {
+    "007": {
       "title": "",
-      "last_updated": "1787484839",
+      "last_updated": "1787478507",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/n87wo6w9zyx"
+        "UMD": "/proxy/api/imgchest/chapter/vj4jbdb6378"
       }
     },
     "008": {
@@ -94,6 +66,20 @@
       "last_updated": "1787484840",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/pg73v9zlzyr"
+      }
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1787478506",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxj927b"
+      }
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1787484839",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6w9zyx"
       }
     },
     "011": {
@@ -108,6 +94,20 @@
       "last_updated": "1787484876",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/md7oog6ad7p"
+      }
+    },
+    "012.1": {
+      "title": "",
+      "last_updated": "1787478513",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/dl7pojo634o"
+      }
+    },
+    "012.2": {
+      "title": "",
+      "last_updated": "1787478518",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbzbn378"
       }
     }
   }
