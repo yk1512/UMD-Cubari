@@ -1,0 +1,30 @@
+{
+  "title": "Melty Blood: Back Alley Nightmare",
+  "description": "",
+  "artist": "Kirishima Takeru",
+  "author": "Type-Moon",
+  "cover": "",
+  "chapters": {
+    "004.5": {
+      "title": "",
+      "last_updated": "1787478673",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokob6yq"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1787478742",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbxbp34x"
+      }
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1787478771",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6opqyx"
+      }
+    }
+  }
+}
