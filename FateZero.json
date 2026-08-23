@@ -1,6 +1,6 @@
 {
   "title": "Fate/Zero",
-  "description": "War of the Holy Grail—Pursuing the power of the \"Holy Grail\" which grants a miracle, this is a contest in which seven magi summon seven Heroic Spirits to compete for it. In that battle whose conclusion was postponed three times, now, the fourth war commenced again. Entrusting their dearest wish of victory, the magi joined the battleground called \"Fuyuki,\" but amongst them, there was a man who was always alone, and could not find out the meaning behind his fights. His name was Kotomine Kirei. Not comprehending the guidance of fate, Kirei was lost, and had kept questioning. Why someone like his was given the Command Seals. However, the fate of his fights crossed Kirei's path with a nemesis by chance. That person is—Emiya Kiritsugu. A man who was sterner than anyone else, more merciless than anyone else, and who sought the miracle of the Holy Grail. Merely recited in fragments in Fate/stay night, this is the Fourth War of the Holy Grail 10 years ago. The truth which unfolded behind the battle between Shirou's foster father, Rin's father, and the younger Kotomine Kirei, is finally revealed…",
+  "description": "The Holy Grail War is an all-or-nothing battle royale. Seven mages—Masters—each command a summoned Heroic Spirit, a Servant, and stake their lives on the Grail that grants every wish. Emiya Kiritsugu, known as the Mage Killer, throws himself into that war with Saber and the rest of his camp, wagering everything on his dearest wish. Now the curtain rises on a vast story of fate—one that leads toward the hope of Fate/stay night.",
   "artist": "Shinjirou",
   "author": "Type-Moon",
   "cover": "https://i.imgur.com/2N6IyWw.jpg",
@@ -26,11 +26,32 @@
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3bdqyd"
       }
     },
+    "045": {
+      "title": "",
+      "last_updated": "1787484659",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbe5jz4n"
+      }
+    },
     "046": {
       "title": "",
       "last_updated": "1787478383",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/agyvodoxj78"
+      }
+    },
+    "047": {
+      "title": "",
+      "last_updated": "1787484658",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qzop2yn"
+      }
+    },
+    "048": {
+      "title": "",
+      "last_updated": "1787484661",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ne7bbw8kn75"
       }
     },
     "049": {
@@ -45,27 +66,6 @@
       "last_updated": "1787484656",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/dl7pojxd64o"
-      }
-    },
-    "047": {
-      "title": "",
-      "last_updated": "1787484658",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9249qzop2yn"
-      }
-    },
-    "045": {
-      "title": "",
-      "last_updated": "1787484659",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9p4nbe5jz4n"
-      }
-    },
-    "048": {
-      "title": "",
-      "last_updated": "1787484661",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ne7bbw8kn75"
       }
     },
     "051": {
