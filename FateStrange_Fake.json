@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Morii Shizuki",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/51Rdl4F.jpg",
   "chapters": {
     "000": {
       "title": "- Prologue",
@@ -12,11 +12,16 @@
         "UMD": "/proxy/api/imgchest/chapter/na7kbz62378"
       }
     },
-    "004": {
-      "title": "- Caster",
-      "last_updated": "1787480637",
+    "001": {
+      "title": "- Archer",
+      "last_updated": "1787481795",
+      "groups": {}
+    },
+    "002": {
+      "title": "- Berserker",
+      "last_updated": "1787480660",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/vj4jbdaj378"
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbe9qb4n"
       }
     },
     "003": {
@@ -26,12 +31,22 @@
         "UMD": "/proxy/api/imgchest/chapter/dl7poj2r34o"
       }
     },
-    "002": {
-      "title": "- Berserker",
-      "last_updated": "1787480660",
+    "004": {
+      "title": "- Caster",
+      "last_updated": "1787480637",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9p4nbe9qb4n"
+        "UMD": "/proxy/api/imgchest/chapter/vj4jbdaj378"
       }
+    },
+    "017.2": {
+      "title": "",
+      "last_updated": "1787481795",
+      "groups": {}
+    },
+    "017.3": {
+      "title": "",
+      "last_updated": "1787481795",
+      "groups": {}
     },
     "018": {
       "title": "",
@@ -39,6 +54,21 @@
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokwlpyq"
       }
+    },
+    "019": {
+      "title": "",
+      "last_updated": "1787481795",
+      "groups": {}
+    },
+    "020": {
+      "title": "",
+      "last_updated": "1787481795",
+      "groups": {}
+    },
+    "021": {
+      "title": "",
+      "last_updated": "1787481795",
+      "groups": {}
     }
   }
 }
