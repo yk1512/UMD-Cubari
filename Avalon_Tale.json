@@ -1,0 +1,51 @@
+{
+  "title": "Avalon Tale",
+  "description": "",
+  "artist": "Nakatani",
+  "author": "Type-Moon",
+  "cover": "",
+  "chapters": {
+    "1.5": {
+      "title": "- Epic of Remnant",
+      "last_updated": "1787478205",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249qzqw2yn"
+      }
+    },
+    "2.5": {
+      "title": "- Ordeal Call",
+      "last_updated": "1787478210",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ne7bbwbdn75"
+      }
+    },
+    "1": {
+      "title": "- Observer on Timeless Temple",
+      "last_updated": "1787478224",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokor3yq"
+      }
+    },
+    "2": {
+      "title": "- Cosmos in the Lostbelt",
+      "last_updated": "1787478229",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbebwz4n"
+      }
+    },
+    "4": {
+      "title": "- Curtain Call",
+      "last_updated": "1787478244",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26p6aj4l"
+      }
+    },
+    "3": {
+      "title": "- Twilight of the King",
+      "last_updated": "1787478249",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/md7oogowd7p"
+      }
+    }
+  }
+}
