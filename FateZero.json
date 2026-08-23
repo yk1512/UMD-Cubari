@@ -1,0 +1,37 @@
+{
+  "title": "Fate/Zero",
+  "description": "",
+  "artist": "Shinjirou",
+  "author": "Type-Moon",
+  "cover": "",
+  "chapters": {
+    "042": {
+      "title": "",
+      "last_updated": "1787478367",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6o9gyx"
+      }
+    },
+    "044": {
+      "title": "",
+      "last_updated": "1787478375",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb3bdqyd"
+      }
+    },
+    "046": {
+      "title": "",
+      "last_updated": "1787478383",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvodoxj78"
+      }
+    },
+    "049": {
+      "title": "",
+      "last_updated": "1787478404",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/pg73v9vojyr"
+      }
+    }
+  }
+}
