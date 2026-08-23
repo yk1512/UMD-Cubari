@@ -3,8 +3,22 @@
   "description": "",
   "artist": "Namino Ryou, konno, Yui Yui, Shiranami Kouki, Shimesaba (シメサバ), Takenoko Seijin, Usui Rinno, Hazumi Nariyuki, Keikenchi, Tapo, Mata, Aona Masao, Tsutauchi Nikuhachi, Futaba Masumi",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/xi4aqCz.jpg",
   "chapters": {
+    "1": {
+      "title": "- The Bambi Case",
+      "last_updated": "1787478093",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26p63j4l"
+      }
+    },
+    "10": {
+      "title": "- Sou Funny",
+      "last_updated": "1787478081",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ljyqo9ozo42"
+      }
+    },
     "11": {
       "title": "- The Price is 1000 Yen",
       "last_updated": "1787478056",
@@ -26,25 +40,11 @@
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3bq3yd"
       }
     },
-    "10": {
-      "title": "- Sou Funny",
-      "last_updated": "1787478081",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ljyqo9ozo42"
-      }
-    },
     "14": {
       "title": "- Melting Sweet Life",
       "last_updated": "1787478086",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/xny8jxjqo7b"
-      }
-    },
-    "1": {
-      "title": "- The Bambi Case",
-      "last_updated": "1787478093",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/5xy26p63j4l"
       }
     },
     "15": {
@@ -61,18 +61,18 @@
         "UMD": "/proxy/api/imgchest/chapter/ne7bbwb2n75"
       }
     },
-    "4": {
-      "title": "- Mahoyo Summit 2012",
-      "last_updated": "1787478121",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/5xy26p6bj4l"
-      }
-    },
     "3": {
       "title": "- The Night Box",
       "last_updated": "1787478124",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/md7oogoed7p"
+      }
+    },
+    "4": {
+      "title": "- Mahoyo Summit 2012",
+      "last_updated": "1787478121",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26p6bj4l"
       }
     },
     "5": {
@@ -89,18 +89,18 @@
         "UMD": "/proxy/api/imgchest/chapter/lqyeb3ba3yd"
       }
     },
-    "8": {
-      "title": "- The Magic of Calories",
-      "last_updated": "1787478142",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qb4zo9od37j"
-      }
-    },
     "7": {
       "title": "- Lawnmower Man",
       "last_updated": "1787478143",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/n87wo6olzyx"
+      }
+    },
+    "8": {
+      "title": "- The Magic of Calories",
+      "last_updated": "1787478142",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9od37j"
       }
     },
     "9": {
