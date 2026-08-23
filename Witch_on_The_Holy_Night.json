@@ -1,19 +1,19 @@
 {
-  "title": "Witch on The Holy Night",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "title": "Witch on the Holy Night",
+  "description": "Série d'histoires courtes traitant du quotidien des protagonistes de Mahōtsukai no Yoru.",
+  "artist": "Nakatani",
+  "author": "Type-Moon",
+  "cover": "https://i.imgur.com/es7vZNU.jpg",
   "chapters": {
     "2": {
-      "title": "",
+      "title": "A Certain Day's Events",
       "last_updated": "1787476806",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/9rydb58na4k"
       }
     },
     "3": {
-      "title": "",
+      "title": "A Certain Day's Events",
       "last_updated": "1787476812",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/6eyrogw5xyp"
