@@ -1,0 +1,23 @@
+{
+  "title": "Fate/Type Redline",
+  "description": "",
+  "artist": "Hirano Ryouji",
+  "author": "Type-Moon",
+  "cover": "https://files.catbox.moe/8qn7h6.jpg",
+  "chapters": {
+    "022.1": {
+      "title": "",
+      "last_updated": "1787477366",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokaa6yq"
+      }
+    },
+    "022.2": {
+      "title": "",
+      "last_updated": "1787477339",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9p4nbedd54n"
+      }
+    }
+  }
+}
