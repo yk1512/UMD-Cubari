@@ -1,0 +1,58 @@
+{
+  "title": "Fate/hollow ataraxia",
+  "description": "",
+  "artist": "Medori",
+  "author": "Type-Moon",
+  "cover": "",
+  "chapters": {
+    "000": {
+      "title": "",
+      "last_updated": "1787478418",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbxb5x4x"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1787478452",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/bp459x96n75"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1787478457",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/lqyeb3bnmyd"
+      }
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1787478506",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxj927b"
+      }
+    },
+    "007": {
+      "title": "",
+      "last_updated": "1787478507",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/vj4jbdb6378"
+      }
+    },
+    "012.1": {
+      "title": "",
+      "last_updated": "1787478513",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/dl7pojo634o"
+      }
+    },
+    "012.2": {
+      "title": "",
+      "last_updated": "1787478518",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbzbn378"
+      }
+    }
+  }
+}
