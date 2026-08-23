@@ -3,28 +3,17 @@
   "description": "",
   "artist": "Kirishima Takeru",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/YTywxWr.jpg",
   "chapters": {
-    "004.5": {
+    "001.1": {
       "title": "",
-      "last_updated": "1787478673",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/m9yxokob6yq"
-      }
+      "last_updated": "1787481793",
+      "groups": {}
     },
-    "005": {
+    "001.2": {
       "title": "",
-      "last_updated": "1787478742",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/wl7lbxbp34x"
-      }
-    },
-    "010": {
-      "title": "",
-      "last_updated": "1787478771",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/n87wo6opqyx"
-      }
+      "last_updated": "1787481793",
+      "groups": {}
     },
     "002": {
       "title": "",
@@ -40,12 +29,29 @@
         "UMD": "/proxy/api/imgchest/chapter/m9yxokwqpyq"
       }
     },
-    "010.5": {
+    "004": {
       "title": "",
-      "last_updated": "1787480564",
+      "last_updated": "1787481793",
+      "groups": {}
+    },
+    "004.5": {
+      "title": "",
+      "last_updated": "1787478673",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/xny8jxdr27b"
+        "UMD": "/proxy/api/imgchest/chapter/m9yxokob6yq"
       }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1787478742",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbxbp34x"
+      }
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1787481793",
+      "groups": {}
     },
     "007": {
       "title": "",
@@ -54,11 +60,30 @@
         "UMD": "/proxy/api/imgchest/chapter/vj4jbda5378"
       }
     },
+    "008": {
+      "title": "",
+      "last_updated": "1787481793",
+      "groups": {}
+    },
     "009": {
       "title": "",
       "last_updated": "1787480582",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/n87wo638xyx"
+      }
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1787478771",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6opqyx"
+      }
+    },
+    "010.5": {
+      "title": "",
+      "last_updated": "1787480564",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxdr27b"
       }
     }
   }
