@@ -12,53 +12,28 @@
         "UMD": "/proxy/api/imgchest/chapter/agyvodoab78"
       }
     },
-    "021.1": {
-      "title": "- Eternal Empire (Part 1)",
-      "last_updated": "1787478616",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/md7oogo327p"
-      }
-    },
-    "021.3": {
-      "title": "- Eternal Empire (Part 3)",
-      "last_updated": "1787478627",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/na7kbzbq378"
-      }
-    },
-    "021.5": {
-      "title": "- Eternal Empire (Part 5)",
-      "last_updated": "1787478629",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/wl7lbxb8x4x"
-      }
-    },
-    "024.2": {
-      "title": "- Devil (Part 2)",
-      "last_updated": "1787478644",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/6eyrogoblyp"
-      }
-    },
-    "024.5": {
-      "title": "- Interlude",
-      "last_updated": "1787478653",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/n87wo6obqyx"
-      }
-    },
-    "020.1": {
-      "title": "- The Wind Blowing Through Rome (Part 1)",
-      "last_updated": "1787480437",
-      "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/dl7poj25p4o"
-      }
+    "019.1": {
+      "title": "- Love (Part 1)",
+      "last_updated": "1787481790",
+      "groups": {}
     },
     "019.2": {
       "title": "- Love (Part 2)",
       "last_updated": "1787480443",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/md7oogn5r7p"
+      }
+    },
+    "019.3": {
+      "title": "- Love (Part 3)",
+      "last_updated": "1787481790",
+      "groups": {}
+    },
+    "020.1": {
+      "title": "- The Wind Blowing Through Rome (Part 1)",
+      "last_updated": "1787480437",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/dl7poj25p4o"
       }
     },
     "020.2": {
@@ -68,12 +43,58 @@
         "UMD": "/proxy/api/imgchest/chapter/wl7lbxv5q4x"
       }
     },
+    "021.1": {
+      "title": "- Eternal Empire (Part 1)",
+      "last_updated": "1787478616",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/md7oogo327p"
+      }
+    },
+    "021.2": {
+      "title": "- Eternal Empire (Part 2)",
+      "last_updated": "1787481790",
+      "groups": {}
+    },
+    "021.3": {
+      "title": "- Eternal Empire (Part 3)",
+      "last_updated": "1787478627",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbzbq378"
+      }
+    },
+    "021.4": {
+      "title": "- Eternal Empire (Part 4)",
+      "last_updated": "1787481790",
+      "groups": {}
+    },
+    "021.5": {
+      "title": "- Eternal Empire (Part 5)",
+      "last_updated": "1787478629",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/wl7lbxb8x4x"
+      }
+    },
     "021.6": {
       "title": "- Eternal Empire (Part 6)",
       "last_updated": "1787480452",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/ljyqo9l5n42"
       }
+    },
+    "022.1": {
+      "title": "- Death World in the Demonic Fog City, London (Part 1)",
+      "last_updated": "1787481790",
+      "groups": {}
+    },
+    "022.2": {
+      "title": "- Death World in the Demonic Fog City, London (Part 2)",
+      "last_updated": "1787481790",
+      "groups": {}
+    },
+    "023.1": {
+      "title": "- Knight of Londinium (Part 1)",
+      "last_updated": "1787481790",
+      "groups": {}
     },
     "023.2": {
       "title": "- Knight of Londinium (Part 2)",
@@ -89,18 +110,42 @@
         "UMD": "/proxy/api/imgchest/chapter/ljyqo9l6d42"
       }
     },
-    "025.3": {
-      "title": "- Beyond Good and Evil - Fragment One (Part 3)",
-      "last_updated": "1787480474",
+    "024.2": {
+      "title": "- Devil (Part 2)",
+      "last_updated": "1787478644",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qe4gbdg8q7j"
+        "UMD": "/proxy/api/imgchest/chapter/6eyrogoblyp"
       }
+    },
+    "024.3": {
+      "title": "- Devil (Part 3)",
+      "last_updated": "1787481790",
+      "groups": {}
+    },
+    "024.5": {
+      "title": "- Interlude",
+      "last_updated": "1787478653",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wo6obqyx"
+      }
+    },
+    "025.1": {
+      "title": "- Beyond Good and Evil - Fragment One (Part 1)",
+      "last_updated": "1787481790",
+      "groups": {}
     },
     "025.2": {
       "title": "- Beyond Good and Evil - Fragment One (Part 2)",
       "last_updated": "1787480479",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/qb4zo9zr57j"
+      }
+    },
+    "025.3": {
+      "title": "- Beyond Good and Evil - Fragment One (Part 3)",
+      "last_updated": "1787480474",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qe4gbdg8q7j"
       }
     }
   }
