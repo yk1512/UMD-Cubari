@@ -3,6 +3,133 @@
   "description": "",
   "artist": "Sasaki Shounen",
   "author": "Type-Moon",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://i.imgur.com/DYk0Zp2.jpg",
+  "chapters": {
+    "006": {
+      "title": "",
+      "last_updated": "1787481159",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvod5dz78"
+      }
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1787481178",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/md7oogmg97p"
+      }
+    },
+    "007": {
+      "title": "",
+      "last_updated": "1787481181",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ne7bbwawv75"
+      }
+    },
+    "011": {
+      "title": "",
+      "last_updated": "1787481206",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9x9g7j"
+      }
+    },
+    "017": {
+      "title": "",
+      "last_updated": "1787481243",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/6eyroge2kyp"
+      }
+    },
+    "020.1": {
+      "title": "",
+      "last_updated": "1787481267",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/bp459xgdx75"
+      }
+    },
+    "016": {
+      "title": "",
+      "last_updated": "1787481282",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9rydb5kzd4k"
+      }
+    },
+    "022.1": {
+      "title": "",
+      "last_updated": "1787481294",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26pkln4l"
+      }
+    },
+    "022.2": {
+      "title": "",
+      "last_updated": "1787481303",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9rydb5kpd4k"
+      }
+    },
+    "015": {
+      "title": "",
+      "last_updated": "1787481307",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ljyqo9wqe42"
+      }
+    },
+    "022.4": {
+      "title": "",
+      "last_updated": "1787481319",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qe4gbdnro7j"
+      }
+    },
+    "023.2": {
+      "title": "",
+      "last_updated": "1787481322",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zo9xkg7j"
+      }
+    },
+    "023.1": {
+      "title": "",
+      "last_updated": "1787481325",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8jxaop7b"
+      }
+    },
+    "025.2": {
+      "title": "",
+      "last_updated": "1787481348",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/5xy26pk3n4l"
+      }
+    },
+    "025.1": {
+      "title": "",
+      "last_updated": "1787481350",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7kbzjek78"
+      }
+    },
+    "027.2": {
+      "title": "",
+      "last_updated": "1787481352",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/6eyroge8kyp"
+      }
+    },
+    "027.1": {
+      "title": "",
+      "last_updated": "1787481358",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/ej7momdkq4d"
+      }
+    },
+    "028.2": {
+      "title": "",
+      "last_updated": "1787481366",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/o24abp5ag7l"
+      }
+    }
+  }
 }
