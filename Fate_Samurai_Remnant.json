@@ -4,5 +4,55 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "001.2": {
+      "title": "",
+      "last_updated": "1787472536",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy26pjoz4l"
+      }
+    },
+    "002.1": {
+      "title": "",
+      "last_updated": "1787472562",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrogbnxyp"
+      }
+    },
+    "002.2": {
+      "title": "",
+      "last_updated": "1787472563",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zo9bp57j"
+      }
+    },
+    "004.2": {
+      "title": "",
+      "last_updated": "1787472578",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yxokbnpyq"
+      }
+    },
+    "001.1": {
+      "title": "",
+      "last_updated": "1787472583",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lbx8wx4x"
+      }
+    },
+    "004.1": {
+      "title": "",
+      "last_updated": "1787472585",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nbeazb4n"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1787472586",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8jxw627b"
+      }
+    }
+  }
 }
