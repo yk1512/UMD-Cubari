@@ -3,43 +3,8 @@
   "description": "",
   "artist": "metalog",
   "author": "Type-Moon",
-  "cover": "",
+  "cover": "https://i.imgur.com/cItgjJ2.jpg",
   "chapters": {
-    "008.1": {
-      "title": "",
-      "last_updated": "1787478849",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/a8462a2b2yx"
-      }
-    },
-    "009.2": {
-      "title": "",
-      "last_updated": "1787478850",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/m9yxokoa6yq"
-      }
-    },
-    "011.2": {
-      "title": "",
-      "last_updated": "1787478863",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/na7kbzbbw78"
-      }
-    },
-    "015.5": {
-      "title": "",
-      "last_updated": "1787478870",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo9oox42"
-      }
-    },
-    "016.1": {
-      "title": "",
-      "last_updated": "1787478886",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/qb4zo9ool7j"
-      }
-    },
     "001": {
       "title": "",
       "last_updated": "1787480708",
@@ -47,18 +12,18 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/n87wo63bxyx"
       }
     },
-    "003": {
-      "title": "",
-      "last_updated": "1787480709",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/qb4zo9zb57j"
-      }
-    },
     "002": {
       "title": "",
       "last_updated": "1787480713",
       "groups": {
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/lqyeb3ermyd"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1787480709",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/qb4zo9zb57j"
       }
     },
     "004": {
@@ -75,6 +40,13 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/m9yxokwbpyq"
       }
     },
+    "006.1": {
+      "title": "",
+      "last_updated": "1787480739",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ne7bbwmjm75"
+      }
+    },
     "006.2": {
       "title": "",
       "last_updated": "1787480729",
@@ -82,18 +54,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/dl7poj2b34o"
       }
     },
-    "007.5": {
+    "007.1": {
       "title": "",
-      "last_updated": "1787480739",
+      "last_updated": "1787480744",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo9lpd42"
-      }
-    },
-    "006.1": {
-      "title": "",
-      "last_updated": "1787480739",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ne7bbwmjm75"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/md7oognk27p"
       }
     },
     "007.2": {
@@ -103,11 +68,25 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/5xy26p95z4l"
       }
     },
-    "007.1": {
+    "007.5": {
       "title": "",
-      "last_updated": "1787480744",
+      "last_updated": "1787480739",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/md7oognk27p"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo9lpd42"
+      }
+    },
+    "008.1": {
+      "title": "",
+      "last_updated": "1787478849",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/a8462a2b2yx"
+      }
+    },
+    "008.2": {
+      "title": "",
+      "last_updated": "1787480759",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogjklyp"
       }
     },
     "008.5": {
@@ -124,11 +103,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ej7momxpa4d"
       }
     },
-    "008.2": {
+    "009.2": {
       "title": "",
-      "last_updated": "1787480759",
+      "last_updated": "1787478850",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogjklyp"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/m9yxokoa6yq"
       }
     },
     "010.1": {
@@ -152,6 +131,13 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/a8462ajn2yx"
       }
     },
+    "011.2": {
+      "title": "",
+      "last_updated": "1787478863",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/na7kbzbbw78"
+      }
+    },
     "012": {
       "title": "",
       "last_updated": "1787480803",
@@ -166,11 +152,11 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ne7bbwmzg75"
       }
     },
-    "016.2": {
+    "014": {
       "title": "",
-      "last_updated": "1787480820",
+      "last_updated": "1787480829",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogjwlyp"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/dl7poj2mj4o"
       }
     },
     "015": {
@@ -180,11 +166,25 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/na7kbz6lw78"
       }
     },
-    "014": {
+    "015.5": {
       "title": "",
-      "last_updated": "1787480829",
+      "last_updated": "1787478870",
       "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/dl7poj2mj4o"
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ljyqo9oox42"
+      }
+    },
+    "016.1": {
+      "title": "",
+      "last_updated": "1787478886",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/qb4zo9ool7j"
+      }
+    },
+    "016.2": {
+      "title": "",
+      "last_updated": "1787480820",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/6eyrogjwlyp"
       }
     },
     "016.5": {
@@ -194,25 +194,16 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/lqyeb3e5zyd"
       }
     },
+    "017": {
+      "title": "",
+      "last_updated": "1787481798",
+      "groups": {}
+    },
     "018": {
       "title": "",
       "last_updated": "1787480859",
       "groups": {
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/xny8jxdkw7b"
-      }
-    },
-    "021": {
-      "title": "",
-      "last_updated": "1787480867",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/agyvodk8k78"
-      }
-    },
-    "020": {
-      "title": "",
-      "last_updated": "1787480873",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/a8462ajb2yx"
       }
     },
     "019": {
@@ -222,6 +213,20 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/9p4nbe9d54n"
       }
     },
+    "020": {
+      "title": "",
+      "last_updated": "1787480873",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/a8462ajb2yx"
+      }
+    },
+    "021": {
+      "title": "",
+      "last_updated": "1787480867",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/agyvodk8k78"
+      }
+    },
     "022": {
       "title": "",
       "last_updated": "1787480885",
@@ -229,18 +234,23 @@
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/vj4jbdab978"
       }
     },
-    "024.5": {
+    "023": {
       "title": "",
-      "last_updated": "1787480903",
-      "groups": {
-        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ej7momxoa4d"
-      }
+      "last_updated": "1787481798",
+      "groups": {}
     },
     "024": {
       "title": "",
       "last_updated": "1787480913",
       "groups": {
         "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/n87wo63oqyx"
+      }
+    },
+    "024.5": {
+      "title": "",
+      "last_updated": "1787480903",
+      "groups": {
+        "UMD, Tsukihimates": "/proxy/api/imgchest/chapter/ej7momxoa4d"
       }
     }
   }
