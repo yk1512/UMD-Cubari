@@ -4,5 +4,13 @@
   "artist": "",
   "author": "Type-Moon",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1790044319",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9249rn6ab4n"
+      }
+    }
+  }
 }
