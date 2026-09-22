@@ -1,0 +1,16 @@
+{
+  "title": "Beyond the Cosmos",
+  "description": "Manga adaptation of Beyond the Cosmos.",
+  "artist": "",
+  "author": "Nasu Kinoko",
+  "cover": "https://udonmango.github.io/assets/covers/beyond_the_cosmos.jpg",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1790044170",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/xny8dnap27b"
+      }
+    }
+  }
+}
