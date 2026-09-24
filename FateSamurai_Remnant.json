@@ -3,7 +3,7 @@
   "description": "Keian 4, Edo. Seven Masters and seven Servants in a fight to the death—the curtain rises on the Ritual of the Waxing Moon.",
   "artist": "Mugetsu",
   "author": "Type-Moon",
-  "cover": "https://files.catbox.moe/ht5jnu.jpg",
+  "cover": "https://i.imgur.com/V3O25Ff.jpg",
   "chapters": {
     "001.1": {
       "title": "",
@@ -59,6 +59,13 @@
       "last_updated": "1787472578",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/m9yxokbnpyq"
+      }
+    },
+    "004.3": {
+      "title": "",
+      "last_updated": "1790255620",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/agyvk5l6w48"
       }
     }
   }
