@@ -3,7 +3,7 @@
   "description": "Matou Sakura comes to the Emiya house every day, clinging to a dreamlike peace with Emiya Shirou. Meanwhile, Matou Shinji prepares a summoning, meaning to offer Sakura herself as the sacrifice so he can enter the Holy Grail War. The Matou Sakura route—the final chapter of Fate/stay night—begins. What, in truth, is the Holy Grail War?",
   "artist": "Task Ohna",
   "author": "Type-Moon",
-  "cover": "https://udonmango.github.io/assets/covers/fatestay_night_heavens_feel.jpg",
+  "cover": "https://i.imgur.com/ZXPD3yQ.jpg",
   "chapters": {
     "060": {
       "title": "Day 9 - Rin's Questions and Answers (1)",
@@ -374,6 +374,13 @@
       "last_updated": "1789184197",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/ljyql8xae42"
+      }
+    },
+    "113": {
+      "title": "Day 11 - Bad News (2)",
+      "last_updated": "1791237922",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/9rydkn36n4k"
       }
     }
   }
