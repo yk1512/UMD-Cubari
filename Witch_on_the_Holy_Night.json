@@ -6,17 +6,24 @@
   "cover": "https://i.imgur.com/es7vZNU.jpg",
   "chapters": {
     "2": {
-      "title": "",
+      "title": "A Certain Day's Events",
       "last_updated": "1787476806",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/9rydb58na4k"
       }
     },
     "3": {
-      "title": "",
+      "title": "A Certain Day's Events",
       "last_updated": "1787476812",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/6eyrogw5xyp"
+      }
+    },
+    "1": {
+      "title": "A Certain Day's Events",
+      "last_updated": "1791681422",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/qb4zxx5p57j"
       }
     }
   }
