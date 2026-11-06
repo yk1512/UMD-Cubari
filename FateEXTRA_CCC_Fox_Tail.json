@@ -1,120 +1,120 @@
 {
   "title": "Fate/EXTRA CCC Fox Tail",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "Manga adaptation of Fate/EXTRA CCC, following Tamamo-no-Mae at Tsukumihara Academy.",
+  "artist": "Takenoko Seijin",
+  "author": "TYPE-MOON / Marvelous",
+  "cover": "https://cdn.imgchest.com/files/50f050715e88.jpg",
   "chapters": {
     "098": {
       "title": "The Night Before 2",
       "last_updated": "1793967715",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9rydgk25dyk"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/9rydgk25dyk"
       }
     },
     "097": {
       "title": "Golden White Face 2",
       "last_updated": "1793967745",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/lqye8xl3xyd"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/lqye8xl3xyd"
       }
     },
     "096": {
       "title": "Golden White Face",
       "last_updated": "1793967760",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/924986kavyn"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/924986kavyn"
       }
     },
     "095": {
       "title": "Summoning",
       "last_updated": "1793967779",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ne7bea6pk75"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/ne7bea6pk75"
       }
     },
     "094": {
       "title": "Tamamo-no-Mae",
       "last_updated": "1793967802",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/wl7lnqwk64x"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/wl7lnqwk64x"
       }
     },
     "093": {
       "title": "The Night Before",
       "last_updated": "1793967820",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/ej7mbdenqyd"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/ej7mbdenqyd"
       }
     },
     "092": {
       "title": "Clear Skies 3",
       "last_updated": "1793967838",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/pg73meopvyr"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/pg73meopvyr"
       }
     },
     "091.5": {
       "title": "Clear Skies 2",
       "last_updated": "1793967853",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qb4zgxp3gyj"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/qb4zgxp3gyj"
       }
     },
     "091": {
       "title": "Clear Skies",
       "last_updated": "1793967867",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/o24aw56kg7l"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/o24aw56kg7l"
       }
     },
     "090": {
       "title": "Confession",
       "last_updated": "1793967902",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/m9yxe6ngm7q"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/m9yxe6ngm7q"
       }
     },
     "089": {
       "title": "Suzuka Gozen 3",
       "last_updated": "1793967915",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/5xy2rkolj4l"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/5xy2rkolj4l"
       }
     },
     "088": {
       "title": "Suzuka Gozen 3",
       "last_updated": "1793967930",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/9rydgk2pwyk"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/9rydgk2pwyk"
       }
     },
     "087": {
       "title": "Suiten Nikkō Amaterasu Yano Shizu-Ishi 3",
       "last_updated": "1793967942",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/6eyrqende7p"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/6eyrqende7p"
       }
     },
     "086.5": {
       "title": "Suiten Nikkō Amaterasu Yano Shizu-Ishi 2",
       "last_updated": "1793967955",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/pg73meojzyr"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/pg73meojzyr"
       }
     },
     "086": {
       "title": "Suiten Nikkō Amaterasu Yano Shizu-Ishi",
       "last_updated": "1793967974",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/n87wkangz7x"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/n87wkangz7x"
       }
     },
     "085": {
       "title": "Noble Phantasm",
       "last_updated": "1793967990",
       "groups": {
-        "UMD": "/proxy/api/imgchest/chapter/qe4ganqxr4j"
+        "Foxtail Team": "/proxy/api/imgchest/chapter/qe4ganqxr4j"
       }
     }
   }
