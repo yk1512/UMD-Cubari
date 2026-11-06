@@ -4,5 +4,13 @@
   "artist": "Tsuta Suzuki",
   "author": "Hikaru Sakurai / TYPE-MOON",
   "cover": "https://cdn.imgchest.com/files/a1d04d7de318.jpg",
-  "chapters": {}
+  "chapters": {
+    "010": {
+      "title": "",
+      "last_updated": "1793971342",
+      "groups": {
+        "Skysilver Scans": "/proxy/api/imgchest/chapter/lqye8xlbzyd"
+      }
+    }
+  }
 }
