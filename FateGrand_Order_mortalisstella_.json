@@ -3,7 +3,7 @@
   "description": "Mash Kyrielight of the Human Order Preservation Agency, Chaldea, meets a boy one day. His name is Fujimaru Ritsuka, a civilian Master candidate gathered for a mission to protect the future of human history. Then, just before the operation, an explosion of unknown cause tears through Chaldea. So begins the Holy Grail War of humanity’s last Master, and the girl who stands as his shield.",
   "artist": "Shiramine",
   "author": "Type-Moon",
-  "cover": "https://udonmango.github.io/assets/covers/fategrand_order_mortalisstella_.jpg",
+  "cover": "",
   "chapters": {
     "018.2": {
       "title": "The Queen's Crown (Part 2)",
@@ -164,6 +164,13 @@
       "last_updated": "1787480474",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/qe4gbdg8q7j"
+      }
+    },
+    "026.1": {
+      "title": "Beyond Good and Evil - Fragment Two (Part 1)",
+      "last_updated": "1794011006",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/n87wkakbz7x"
       }
     }
   }
