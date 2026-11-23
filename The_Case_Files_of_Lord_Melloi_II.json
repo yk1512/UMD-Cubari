@@ -3,7 +3,7 @@
   "description": "Lord El-Melloi II is one of the few survivors of the brutal Fourth Holy Grail War. Invited to unravel the riddle of the Adra Castle inheritance, he is drawn into a fantastical, grievous affair.",
   "artist": "Asuma Toh",
   "author": "Type-Moon",
-  "cover": "https://udonmanga.github.io/assets/covers/the_case_files_of_lord_melloi_ii.webp?v=983358ca",
+  "cover": "https://i.imgur.com/4HDNkAr.jpg",
   "chapters": {
     "019": {
       "title": "",
@@ -430,6 +430,13 @@
       "last_updated": "1794014829",
       "groups": {
         "UMD": "/proxy/api/imgchest/chapter/5xy2rkwxn4l"
+      }
+    },
+    "070.1": {
+      "title": "",
+      "last_updated": "1795398885",
+      "groups": {
+        "UMD": "/proxy/api/imgchest/chapter/na7k3mxeky8"
       }
     }
   }
